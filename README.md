@@ -26,6 +26,6 @@ Welcome to my GitHub! I'm a student of Industrial Engineering and Management at 
 ## Connect with Me
 - 📧 **Email**: vmold@kth.se and Victormag24@gmail.com
 - :octocat: **GitHub**: [[jurmy24](https://github.com/jurmy24)](#)
-- 👔 **LinkedIn**: [https://www.linkedin.com/in/victor-oldensand/](#)
+- 👔 **LinkedIn**: [[victor oldensand]https://www.linkedin.com/in/victor-oldensand/](#)
 
 I'm always open to collaborating on projects and innovative ideas. Feel free to reach out!

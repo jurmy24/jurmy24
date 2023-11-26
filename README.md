@@ -10,8 +10,8 @@ Welcome to my GitHub! I'm a student of Industrial Engineering and Management at 
 - 🛠️ **CAD Design**: Have experience in using NX for computer-aided design, particularly in engineering applications.
 
 ## Projects
-- 🏭 **Utter**: Work on a startup project building voicebots for language learning.
-- 📈 **Tic-Tac-Toe**: Built the game in two ways, separately, using Java and Javascript. 
+- 💬 **Utter**: Work on a startup project building voicebots for language learning.
+- 🎮 **Tic-Tac-Toe**: Built the game in two ways, separately, using Java and Javascript. 
 
 ## Education
 - 🎓 **Degree Program in Industrial Engineering and Management**, KTH Royal Institute of Technology.

@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a student of Industrial Engineering and Management at 
 
 ## Education
 - 🎓 **Degree Program in Industrial Engineering and Management**, KTH Royal Institute of Technology.
-- 🧑‍💻 **Master of Science in Machine Learning**, KTH Royal Institute of Technology.
+- 💻 **Master of Science in Machine Learning**, KTH Royal Institute of Technology.
 - 🔧 **Bachelor of Science in Mechanical Engineering**, KTH Royal Institute of Technology.
 - 🇨🇭 **Exchange Semester**, EPFL École Polytechnique Fédérale de Lausanne.
 

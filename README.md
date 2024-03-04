@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I'm a student of Industrial Engineering and Management at the KTH Royal Institute of Technology, in Stockholm, currently pursuing my Master of Science in Machine Learning. I'm also studying a Bachelors degree in Mechanical Engineering to complement my digital skills with a more hands-on counterpart. 
 
+By the way, a lot of my repositories are private, let me know if you want to hear about them.
+
 ## Tech Skills
 - 🤖 **Machine Learning**: Proficient in machine learning techniques and algorithms.
 - 💻 **Programming Languages**: Skilled in Python, Swift, and Javascript (though I adapt quickly).

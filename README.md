@@ -2,4 +2,6 @@
 
 🔥 Passionate about AI and sustainable engineering. I like working on hard projects.
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/victor-oldensand/)
+💼 For my CV, try to navigate [this](https://www.victoro.me/).
+
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/victor-oldensand/).

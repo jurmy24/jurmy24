@@ -1,6 +1,6 @@
 👋 I'm Victor Oldensand
 
-🔥 Passionate about AI and sustainable engineering. I like building stuff.
+🔥 Passionate about AI, robotics, and sustainable engineering. I like building stuff.
 
 💼 For my CV, try to navigate [this](https://www.victoro.me/).
 
